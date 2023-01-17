@@ -1,11 +1,11 @@
 
 ### Hi I'm JongRak Shin 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
+
 <hr></hr>
 <h2> My tech stack </h2>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
