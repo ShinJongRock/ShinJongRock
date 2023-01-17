@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJongRock&show_icons=true&theme=radical)
 
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=shinJongRock&show_icons=true)
+![shinJongRock's github stats](https://github-readme-stats.vercel.app/api?username=shinJongRock&show_icons=true)
 
 <h3 align="center"><b>📋 Languages </b></h3>
 </br>
