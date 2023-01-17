@@ -1,4 +1,4 @@
-<a  align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
 
 
@@ -12,7 +12,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ShinJongRock&theme=tokyonight&show_icons=true" width="45%" />
 </a>
-<a href="s">
+<a   align="center" href="s">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/" />
 </a>
 
