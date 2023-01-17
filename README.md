@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/)
-
-
-
 
 
 
