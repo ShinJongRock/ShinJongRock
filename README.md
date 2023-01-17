@@ -2,7 +2,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJongRock&show_icons=true&theme=radical)
+![shinJongRock's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJongRock&show_icons=true&theme=radical)
 
 
 ![shinJongRock's github stats](https://github-readme-stats.vercel.app/api?username=shinJongRock&show_icons=true)
