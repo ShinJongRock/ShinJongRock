@@ -5,7 +5,7 @@
 <hr></hr>
 <h2> My tech stack </h2>
 
-![HTML](https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
+![HTML](https://img.shields.io/)
 
 
 
