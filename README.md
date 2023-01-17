@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=종락's Github&fontSize=50" />
 
-### Hi I'm JongRak Shin 👋
 
 
-<hr></hr>
-<h2> My tech stack </h2>
+
+
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
