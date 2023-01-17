@@ -8,6 +8,7 @@
 
 
 <a><img src="https://img.shields.io/badge/HTML-FA5858?style=flat-square&logo=PythonColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 
 
