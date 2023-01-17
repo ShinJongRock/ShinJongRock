@@ -7,7 +7,7 @@
 
 
 
-<a><img src="https://img.shields.io/badge/HTML-#FA5858?style=flat-square&logo=#E34F26&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/HTML-FA5858?style=flat-square&logo=#E34F26&logoColor=white"/></a>
 
 
 
