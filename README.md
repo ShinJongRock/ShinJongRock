@@ -7,14 +7,13 @@
 <h2> My tech stack </h2>
 
 
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=html5&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
