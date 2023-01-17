@@ -29,7 +29,7 @@
              
              
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=auto&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=500&section=footer"/>
 
                                                                                                                                     
                                                                                                                                                    
