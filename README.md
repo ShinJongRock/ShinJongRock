@@ -5,9 +5,9 @@
 <hr></hr>
 <h2> My tech stack </h2>
 
-![HTML5](https://img.shields.io/)
 
-<img src="https://img.shields.io/badge/#E34F26-컬러코드?style=flat-square&logo=#E34F26&logoColor=white"/></a>&nbsp 
+
+<img src="https://img.shields.io/badge/#E34F26-#FA5858?style=flat-square&logo=#E34F26&logoColor=white"/></a>&nbsp 
 
 
 
