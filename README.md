@@ -1,4 +1,16 @@
 ### Hi there 👋
+### Hi I'm JongRak Shin 
+
+
+<hr></hr>
+<h2> My tech stack </h2>
+
+
+
+
+
+
+
 
 <!--
 **ShinJongRock/ShinJongRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
