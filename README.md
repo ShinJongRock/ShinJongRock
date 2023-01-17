@@ -4,6 +4,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJongRock&show_icons=true&theme=radical)
 
+
+![shinJongRock's github stats](https://github-readme-stats.vercel.app/api?username=shinJongRock&show_icons=true)
+[![shinJongRock's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shinJongRock&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/shinJongRock)
+
 <h3 align="center"><b>📋 Languages </b></h3>
 </br>
 
