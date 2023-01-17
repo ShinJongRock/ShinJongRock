@@ -14,7 +14,6 @@
 <a href="s">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/" />
 </a>
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShinJongRock&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
