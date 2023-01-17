@@ -1,13 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
 
 
-<tr>
-    <td>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/)</td>
-    <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJongRock&show_icons=true&theme=radical)</td>
-</tr>
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJongRock&show_icons=true&theme=radical) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630)](https://solved.ac/whdfkr0630/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJongRock&show_icons=true&theme=radical)
 
 <h3 align="center"><b>📋 Languages </b></h3>
 </br>
@@ -48,8 +43,6 @@
              
              
              
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer"/>
 
                                                                                                                                     
                                                                                                                                                    
