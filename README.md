@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
 
 
-
+             
+ [![trophy](https://github-profile-trophy.vercel.app/?username=shinJongRock&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="s">
@@ -50,8 +51,7 @@
 </p>
     
              
-             
- [![trophy](https://github-profile-trophy.vercel.app/?username=shinJongRock&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
              
              
              
