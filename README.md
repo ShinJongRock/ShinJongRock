@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=종락's Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&"/>
 
 
 
