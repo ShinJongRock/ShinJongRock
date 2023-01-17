@@ -1,7 +1,7 @@
 
 ### Hi I'm JongRak Shin 👋
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
 <hr></hr>
 <h2> My tech stack </h2>
 
