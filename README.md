@@ -15,9 +15,9 @@
 <p   align="center" href="s">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630/" />
 </p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630/)
-
+<p   align="center" href="s">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdfkr0630@gmail.com)](https://solved.ac/whdfkr0630@gmail.com/)
+</p>
 
 
 
