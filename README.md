@@ -16,9 +16,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630/" />
 </p>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630)
 
 
 
