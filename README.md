@@ -13,7 +13,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShinJongRock&theme=tokyonight&show_icons=true" width="45%" />
 </a>
 <p   align="center" href="s">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/whdfkr0630/" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630/" />
+</p>
+<p>
+	<[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630/)>
 </p>
 
 
