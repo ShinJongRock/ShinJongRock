@@ -1,5 +1,7 @@
 <p   align="center" >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
+	[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sjr0630})](https://solved.ac/{sjr0630})
 
 
   
