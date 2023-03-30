@@ -6,6 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinJongRock&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630)
+	
+	[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongRock&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
