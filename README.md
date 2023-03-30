@@ -24,7 +24,7 @@
 	
 
 
-<h3 align="center"><b>📋 Languages </b></h3>
+<h3 ><b>📋 Languages </b></h3>
 </br>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 </p>
 
-<h3 align="center"><b>💬 Social </b></h3>
+<h3 ><b>💬 Social </b></h3>
 </br>
 <p align="center">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
