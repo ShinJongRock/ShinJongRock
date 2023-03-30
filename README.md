@@ -1,3 +1,4 @@
+<div align="center">
 <p   align="center" >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
 	
@@ -65,6 +66,6 @@
              
              
              
-
+</div>
                                                                                                                                     
                                                                                                                                                    
