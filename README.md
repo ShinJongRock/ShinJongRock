@@ -1,4 +1,4 @@
-<p   align="center">
+<p  >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
 
 
@@ -54,7 +54,7 @@
 <a href="https://www.instagram.com/sjr_0630"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sjr_0630"/></a>
 <a href="https://velog.io/@whdkfr0630"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@whdkfr0630"/></a>
 </p>
-   	<p   align="center">
+   	<p  >
 	  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>           
 	</p>
 </p>
