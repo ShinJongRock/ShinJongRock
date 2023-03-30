@@ -7,7 +7,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630)
 	
-	[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongRock&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
