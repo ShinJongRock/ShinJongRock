@@ -16,7 +16,7 @@
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongRock&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinJongRock&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"white="45%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ShinJongRock&theme=tokyonight&show_icons=true" white="45%"  />
