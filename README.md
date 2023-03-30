@@ -1,14 +1,13 @@
 <p   align="center" >
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=JongRak_Github" />
-	[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sjr0630})](https://solved.ac/{sjr0630})
+	
 
 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinJongRock&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630)
-	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjr0630)](https://solved.ac/sjr0630)
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
