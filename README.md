@@ -59,7 +59,7 @@
 <a href="https://velog.io/@whdkfr0630">
 	<img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@whdkfr0630"/></a>
 </p>
-   	<p    align="center">
+   	<p align="center">
 	  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>           
 	</p>
 </p>
