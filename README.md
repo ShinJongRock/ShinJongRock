@@ -20,7 +20,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ShinJongRock&theme=tokyonight&show_icons=true" white="45%"  />
 </a>
-
 	
 <h3  align="center" ><b>📋 Languages </b></h3>
 </br>
